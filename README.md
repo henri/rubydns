@@ -1,6 +1,8 @@
 # RubyDNS
 
+
 RubyDNS is a high-performance DNS server which can be easily integrated into other projects or used as a stand-alone daemon. By default it uses rule-based pattern matching. Results can be hard-coded, computed, fetched from a remote DNS server or fetched from a local cache, depending on requirements.
+---
 
 [![Build Status](https://travis-ci.org/socketry/rubydns.svg)](https://travis-ci.org/socketry/rubydns)
 [![Code Climate](https://codeclimate.com/github/socketry/rubydns.svg)](https://codeclimate.com/github/socketry/rubydns)
